@@ -1,0 +1,121 @@
+# ═════════════════════════════════════════════════════════════════════
+# PYTHON VIRTUAL ENVIRONMENTS
+# ═════════════════════════════════════════════════════════════════════
+venv/
+env/
+env.bak/
+venv.bak/
+manim_env/
+.venv/
+.env/
+
+# ═════════════════════════════════════════════════════════════════════
+# PYTHON CACHE & COMPILED FILES
+# ═════════════════════════════════════════════════════════════════════
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# ═════════════════════════════════════════════════════════════════════
+# TESTING & TYPE CHECKING
+# ═════════════════════════════════════════════════════════════════════
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# ═════════════════════════════════════════════════════════════════════
+# ENVIRONMENT & SECRETS
+# ═════════════════════════════════════════════════════════════════════
+.env
+.env.local
+.env.*.local
+google_credentials.json
+serviceAccountKey.json
+*.pem
+*.key
+
+# ═════════════════════════════════════════════════════════════════════
+# IDE & EDITOR
+# ═════════════════════════════════════════════════════════════════════
+.vscode/
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.idea_modules/
+*.swp
+*.swo
+*~
+.project
+.classpath
+*.c9/
+*.iml
+
+# ═════════════════════════════════════════════════════════════════════
+# OS & MISC
+# ═════════════════════════════════════════════════════════════════════
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.log
+*.pot
+*.mo
+.webassets-cache
+
+# ═════════════════════════════════════════════════════════════════════
+# PROJECT-SPECIFIC OUTPUT (Media, Videos, Generated Files)
+# ═════════════════════════════════════════════════════════════════════
+media/
+output/
+output_audio/
+testing_local/
+good_videos/
+generated_videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wav
+*.mp3
+
+# ═════════════════════════════════════════════════════════════════════
+# DATABASE & LOCAL FILES
+# ═════════════════════════════════════════════════════════════════════
+*.db
+*.sqlite
+*.sqlite3
+.github/
+
+# ═════════════════════════════════════════════════════════════════════
+# JUPYTER NOTEBOOKS
+# ═════════════════════════════════════════════════════════════════════
+.ipynb_checkpoints/
+*.ipynb_checkpOints/
