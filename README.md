@@ -5,7 +5,7 @@ An intelligent, personalized learning platform that combines AI-powered chat, au
 ## ✨ Features
 
 ### 🎬 Automated Math Video Generation
-- **AI-Powered Manim Code**: Automatically generates Manim Community Edition code for mathematical concepts
+- **AI-Powered VIDEO GENERATION Code**: ON DEMAND UPTO 3 MINS OF VIDEOS OF MATHS CONCEPTS UNDER 5 MINS 
 - **Text-to-Speech Integration**: Supports both Google Cloud TTS and Cartesia TTS for narration
 - **Multilingual Support**: Generate videos in English, Hindi, Marathi, Gujarati, and Hinglish
 - **Intelligent Visual Planning**: Creates lesson plans with synchronized narration and visuals
